@@ -1,6 +1,7 @@
 # Habits Tracker - React App
 
 Este é um projeto de acompanhamento de hábitos diários.
+---
 
 ## ⚙️ Tecnologias Utilizadas
 
@@ -12,5 +13,5 @@ Este é um projeto de acompanhamento de hábitos diários.
 - [dayjs](https://day.js.org/)
 - [Material Icons](https://fonts.google.com/icons)
 
-O projeto está hospedado na Vercel:  
-👉 https://track-it-seven-wheat.vercel.app/
+## 🌐 Projeto Online (Vercel)
+Acesse em: https://track-it-seven-wheat.vercel.app/
