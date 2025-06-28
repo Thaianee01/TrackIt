@@ -3,7 +3,7 @@
 Este é um projeto de acompanhamento de hábitos diários.
 ---
 
-## ⚙️ Tecnologias Utilizadas
+⚙️ Tecnologias Utilizadas
 
 - [React](https://reactjs.org/)
 - [Vite](https://vitejs.dev/)
